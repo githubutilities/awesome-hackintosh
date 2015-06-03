@@ -33,3 +33,8 @@ brew cask install generic-usb-xhci-kext
 brew tap caskroom/unofficial
 brew cask install kext-wizard
 ```
+
+## Fallback Option
+
+* [hackintosh-kexts](https://github.com/githubutilities/hackintosh-kexts)
+
