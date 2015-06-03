@@ -8,11 +8,15 @@
 
 * [VoodooHDA-repacked-pkg](https://github.com/githubutilities/VoodooHDA-repacked-pkg)
 
-> Generic Sound Card Driver
+> Generic Sound Card Driver.
 
 * [GenericUSBXHCI-pkg](https://github.com/githubutilities/GenericUSBXHCI-pkg)
 
-> Generic USB 3.0 Driver
+> Generic USB 3.0 Driver.
+
+* [Kext Wizard](http://www.insanelymac.com/forum/topic/253395-kext-wizard-easy-to-use-kext-installer-and-more/)
+
+> A kext installer.
 
 
 ## Note
@@ -24,4 +28,8 @@ brew tap githubutilities/tap
 brew cask install hwsensors
 brew cask install voodoo-hda-kext
 brew cask install generic-usb-xhci-kext
+
+# install kext-wizard
+brew tap caskroom/unofficial
+brew cask install kext-wizard
 ```
